@@ -1,0 +1,2 @@
+#!/bin/sh
+cat "file.in.docx" > file.out.docx
